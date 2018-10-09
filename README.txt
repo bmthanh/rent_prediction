@@ -1,6 +1,6 @@
 
 
-This is a small project demonstrating the use of machine learning regression techniques for predicting the housing price.
+This is a small project demonstrating the use of machine learning regression techniques for predicting the rent with respect to the housing size and location.
 
 The python script describe 6 steps of a data science project:
 1) Retrieving the data

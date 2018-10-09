@@ -35,7 +35,7 @@ cleaned_house_df = house_df.dropna(axis=0, how='any')
 plt.figure()
 plt.plot(cleaned_house_df['surface'], cleaned_house_df['price'], 'ro', markersize=4)
 plt.xlabel('Surface')
-plt.ylabel('Price')
+plt.ylabel('Rent')
 # Plot the histogram
 cleaned_house_df.hist(bins=30, figsize=(12,8))
 # Scatter plots
